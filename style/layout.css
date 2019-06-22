@@ -1764,7 +1764,9 @@ body.work-detail .logo--mobile svg .logo-g, body.work-detail .logo svg .logo-g {
   padding-left: 2vw;
 }
 
-@media (max-width:768.98px) {}
+@media (max-width:768.98px) {
+  
+}
 
 @media (max-width:576.98px) {
   .nav__primary {
