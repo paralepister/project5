@@ -379,7 +379,25 @@ p {
   margin-top: -32vw;
   margin-left: 34vw;
 }
+.teeshirt {
+  position: relative;
+  z-index: 2;
 
+  width: 20vw;
+  transform: rotate(-30deg);
+
+  margin-left: 8vw;
+  margin-top: 7vw;
+}
+.teeshirt2 {
+  position: relative;
+  z-index: 3;
+
+  width: 12vw;
+  margin-left: -4vw;
+    transform: rotate(18deg);
+      margin-top: 10vw;
+}
 .modo h3 {
   position: relative;
   z-index: 2;
@@ -810,6 +828,7 @@ h6 {
   border: none;
   background-color: black;
 }
+
 
 .fonts {
   margin-left: 6vw;
@@ -1451,7 +1470,6 @@ h6 {
   width: 57vw;
   margin-top: 5vw;
 }
-
 
 .endbook {
   margin-top: -27vw;
