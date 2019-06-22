@@ -68,7 +68,7 @@ a {
 
 .link, .link2, .link3, .link4
  {
-  margin-top: 3.9vw;
+  margin-top: 5.5vw;
 
   font-family: 'Roboto', sans-serif;
   font-size: 1,9vw;
@@ -173,8 +173,9 @@ h3 {
 
   margin-top: 11vw;
   margin-left: 13vw;
+  line-height: 3.5vw;
 
-  font-size: 4vw;
+  font-size: 3.5vw;
 }
 
 .three {
@@ -182,14 +183,15 @@ h3 {
   z-index: 3;
 
   width: 43vw;
-  margin-top: -17vw;
+  margin-top: -21vw;
   margin-left: 50vw;
 }
 
 p {
   width: 35vw;
-  margin-top: -36.5vw;
+  margin-top: -32vw;
   margin-left: 13vw;
+  color: #424242;
 
   font-family: 'Roboto', sans-serif;
   font-size: 1.3vw;
