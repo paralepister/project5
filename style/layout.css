@@ -1795,7 +1795,7 @@ body.work-detail .logo--mobile svg .logo-g, body.work-detail .logo svg .logo-g {
 
 @media (max-width:320.98px) {
   .nav__primary ul li a {
-    font-size: 2em;
+    font-size: 1em;
   }
 }
 
