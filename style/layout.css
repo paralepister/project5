@@ -1973,3 +1973,618 @@ html {
   box-sizing: border-box;
   -ms-overflow-style: scrollbar;
 }
+
+@media(max-width: 769px) {
+  .teeshirt2 {
+  width: 20vw;
+      margin-top: 70vw;
+      margin-left: 1vw;
+  }
+  .teeshirt {
+  width: 30vw;
+  }
+.oneo {
+  position: relative;
+  z-index: 1;
+  width: 60vw;
+  margin-top: 32vw;
+  margin-left: 21vw;
+}
+
+  .webposter br {
+    display: none;
+  }
+
+  .book br {
+    display: none;
+  }
+  header {
+    position: fixed;
+    z-index: 5;
+
+    font-size: 2vw;
+  }
+
+  .class {
+    position: fixed;
+    z-index: 5;
+
+    font-size: 2vw;
+  }
+
+  .hello p {
+    width: 31vw;
+  }
+
+  p {
+    font-size: 2vw;
+    line-height: 2.7vw;
+  }
+
+  #first {
+    display: none;
+  }
+
+  .two {
+    width: 32vw;
+    margin-top: 43vw;
+    margin-left: 14.4vw;
+  }
+
+  #second {
+    margin-top: -16vw;
+    margin-left: 53vw;
+  }
+
+
+  p {
+    width: 49vw;
+    margin-top: -118vw;
+    margin-left: 34vw;
+  }
+
+  .link {
+    position: relative;
+    z-index: 2;
+
+    margin-left: 34vw;
+  }
+
+  .three {
+    width: 90%;
+    margin-top: 34vw;
+    margin-left: 5vw;
+  }
+
+  #second1 {
+    margin-top: 104vw;
+    margin-left: 55vw;
+  }
+
+  .four {
+    width: 32vw;
+    margin-top: -15vw;
+    margin-left: 17vw
+  }
+
+  .poster h3 {
+    margin-top: -24vw;
+    margin-left: 34vw;
+  }
+
+  .poster p {
+    width: 44vw;
+    margin-top: -121vw;
+    margin-left: 34vw;
+  }
+
+  .link2 {
+    margin-left: 34vw
+  }
+
+  .five {
+    width: 80%;
+    margin-top: 34vw;
+    margin-left: 11vw;
+  }
+
+  .boxtwo {
+    margin-top: -31vw;
+    margin-left: 0vw;
+  }
+
+  .sixs {
+    position: relative;
+    z-index: 3;
+
+    width: 36vw;
+    margin-top: 66vw;
+    margin-left: 18vw;
+  }
+
+  #second2 {
+    margin-top: -23vw;
+    margin-left: 48vw;
+  }
+
+  .seven {
+    width: 90%;
+      margin-top: 34vw;
+      margin-left: 11vw;
+  }
+
+  .book h3 {
+    margin-top: 3vw;
+    margin-left: 34vw;
+  }
+
+  .book p {
+    width: 41vw;
+    margin-top: -96vw;
+    margin-left: 34;
+  }
+
+  .link3 {
+    margin-left: 34vw;
+  }
+
+  #first2 {
+    margin-top: -9vw;
+    margin-left: 2vw;
+  }
+
+  .box3 {
+    width: 40vw;
+    margin-top: -83vw;
+    margin-left: 60vw;
+
+    transform: scale(-1, 1);
+  }
+
+  .eight {
+    width: 37vw;
+    margin-top: 88vw;
+    margin-left: 12vw;
+  }
+
+  #second3 {
+    margin-top: -23vw;
+    margin-left: 45vw;
+  }
+
+  .modo h3 {
+    margin-top: 4vw;
+    margin-left: 34vw;
+  }
+
+  .nine {
+    width: 70%;
+    margin-top: 38vw;
+    margin-left: 16vw;
+  }
+
+  .modo p {
+    width: 41vw;
+    margin-top: -130vw;
+    margin-left: 34vw;
+  }
+
+  .link4 {
+    margin-left: 34vw;
+  }
+
+  footer {
+    margin-top: 152vw;
+  }
+
+  .posterhello p {
+    width: 33vw;
+  }
+  .whatitis br {
+    display: none;
+  }
+  #second8 {
+    margin-top: -16vw;
+    margin-left: 74vw;
+  }
+
+  .whatitis h3 {
+      margin-top: 4vw;
+      margin-left: 30vw;
+  }
+
+  .whatitis p {
+      width: 54vw;
+      margin-top: 7vw;
+      margin-left: 30vw;
+  }
+
+  .twentytwo {
+    width: 36vw;
+    margin-top: 11vw;
+
+}
+
+#second9 {
+    position: absolute;
+    z-index: 3;
+
+    margin-top: -22vw;
+    margin-left: 65vw;
+
+    border: none;
+    background-color: black;
+}
+
+.development p {
+    width: 51vw;
+    margin-top: 7vw;
+    margin-left: 22vw;
+}
+
+.bookhello p {
+    width: 26vw;
+    margin-top: 13vw;
+    margin-left: 13vw;
+}
+
+.idea p {
+    width: 47vw;
+
+}
+
+.idea br {
+  display: none;
+}
+
+.twentyfour {
+    width: 30vw;
+    margin-top: -32vw;
+    margin-left: 22vw;
+}
+
+#second14 {
+    position: absolute;
+    z-index: 3;
+
+    margin-top: -24vw;
+    margin-left: 50vw;
+
+    border: none;
+    background-color: black;
+}
+
+.kitchen h3 {
+    position: relative;
+    z-index: 2;
+
+    margin-top: -19vw;
+    margin-left: 38vw;
+
+    font-size: 6vw;
+}
+
+.kitchen p {
+    width: 35vw;
+    margin-top: 8vw;
+    margin-left: 38vw;
+
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 2vw;
+    font-weight: 300;
+    line-height: 2.3vw;
+}
+
+.bedroom {
+       margin-left: -15vw;
+}
+
+.twentyfive {
+    position: relative;
+    z-index: 2;
+
+    width: 43vw;
+    margin-top: -35vw;
+    margin-left: 29vw;
+}
+
+.bathroom {
+  margin-left: 15vw;
+}
+
+.twentysix {
+    position: relative;
+    z-index: 2;
+
+    width: 40vw;
+    margin-top: 76vw;
+}
+
+.livingroom br {
+  display: none;
+}
+
+.livingroom p {
+    width: 40vw;
+    margin-top: 9vw;
+    margin-left: 42vw;
+}
+
+.endfont {
+    margin-top: 31vw;
+
+}
+h3 {
+  position: relative;
+  z-index: 2;
+
+  margin-top: -16vw;
+  margin-left: 14vw;
+  line-height: 3vw;
+
+  font-size: 3.2vw;
+}
+
+}
+
+@media(max-width: 376px) {
+  .teeshirt2 {
+  width: 30vw;
+      margin-top: 70vw;
+      margin-left: -1vw;
+  }
+  .teeshirt {
+  width: 40vw;
+  }
+
+  .class {
+      position: fixed;
+      z-index: 5;
+
+      font-size: 3.5vw;
+  }
+
+  header {
+    position: fixed;
+    z-index: 5;
+
+        margin: -7vw 0;
+
+    font-size: 3.5vw;
+}
+  .one {
+    display: none;
+  }
+.one-2 {
+  position: relative;
+  z-index: 2;
+
+  display: block;
+
+  width: 85vw;
+  margin-top: 11vw;
+  margin-left: 7vw;
+
+  box-shadow: 1px 1px 50px -16px;
+}
+
+h1 {
+  display: none;
+}
+
+#min {
+  z-index: 4;
+
+  display: block;
+
+  width: 45vw;
+  margin-top: 67vw;
+  margin-left: 5vw;
+
+
+}
+
+h2 {
+  position: relative;
+  z-index: 3;
+  margin-top: -91vw;
+  margin-left: 30vw;
+  font-size: 5.8vw;
+}
+
+.hello p {
+  width: 36vw;
+  margin-top: -71vw;
+  margin-left: 12vw;
+
+  font-size: 2.3vw;
+  line-height: 2.7vw;
+
+}
+
+.two {
+  width: 32vw;
+  margin-top: 72vw;
+  margin-left: 7.4vw;
+}
+h3 {
+  margin-top: 3vw;
+margin-left: 28vw;
+
+  font-size: 9vw;
+}
+
+p {
+    width: 62vw;
+    margin-top: -155vw;
+    margin-left: 27vw;
+
+    font-size: 4vw;
+line-height: 4.7vw;
+}
+
+.link {
+    position: relative;
+    z-index: 2;
+
+    margin-left: 27vw;
+
+    font-size: 4vw;
+}
+
+.three {
+  width: 100%;
+  margin-top: 69vw;
+  margin-left: 10vw;
+  box-shadow: none;
+}
+
+#second1 {
+    margin-top: 129vw;
+    margin-left: 53vw;
+}
+
+.four {
+    width: 32vw;
+    margin-top: -15vw;
+    margin-left: 8vw;
+}
+
+.poster h3 {
+    margin-top: -24vw;
+    margin-left: 21vw;
+}
+
+.poster p {
+    width: 61vw;
+    margin-top: -152vw;
+    margin-left: 22vw;
+}
+
+.link2 {
+    margin-left: 23vw;
+
+    font-size: 4vw;
+}
+
+.five {
+  width: 80%;
+  margin-top: 75vw;
+  margin-left: 12vw;
+}
+
+.boxtwo {
+    width: 60vw;
+    margin-top: -9vw;
+    margin-left: 0vw;
+}
+
+.poster {
+      margin-left: 5vw;
+}
+
+.sixs {
+    position: relative;
+    z-index: 3;
+
+    width: 36vw;
+    margin-top: 66vw;
+    margin-left: 1vw;
+}
+
+.book h3 {
+    margin-top: 3vw;
+    margin-left: 28vw;
+
+    font-size: 9vw;
+}
+
+#second2 {
+    margin-top: -23vw;
+    margin-left: 48vw;
+}
+
+.book p {
+    width: 61vw;
+    margin-top: -126vw;
+    margin-left: 27vw;
+}
+
+.link3 {
+    margin-left: 27vw;
+
+    font-size: 4vw;
+}
+
+.box3 {
+    position: absolute;
+z-index: 1;
+
+    width: 40vw;
+    margin-top: -106vw;
+    margin-left: 60vw;
+
+    transform: scale(-1, 1);
+}
+
+.seven {
+    width: 93%;
+    margin-top: 69vw;
+    margin-left: 17vw;
+}
+
+.eight {
+    width: 37vw;
+    margin-top: 108vw;
+    margin-left: 6vw;
+}
+
+.modo h3 {
+    margin-top: 4vw;
+    margin-left: 27vw;
+
+    font-size: 9vw;
+}
+
+.modo p {
+    width: 68vw;
+    margin-top: -168vw;
+    margin-left: 27vw;
+}
+
+.link4 {
+    margin-left: 27vw;
+
+    font-size: 4vw;
+}
+
+.nine {
+    width: 70%;
+    margin-top: 76vw;
+    margin-left: 23vw;
+}
+
+.modo br {
+  display: none;
+}
+
+.endmodo br {
+  display: block;
+}
+
+h5 {
+width: 36vw;
+}
+
+#namecurate {
+    width: 18vw;
+}
+
+.hello {
+      margin-left: 7vw;
+}
+
+footer {
+  width: 117vw;
+}
+}
