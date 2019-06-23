@@ -2328,6 +2328,30 @@ h3 {
 }
 
 @media(max-width: 376px) {
+  h4 {
+    padding-bottom: 20vw;
+        width: 70vw;
+        margin-top: -22vw;
+        margin-left: 15vw;
+        color: #424242;
+        font-family: 'Roboto', sans-serif;
+        font-size: 3vw;
+        font-weight: bold;
+        line-height: 4vw;
+        margin-bottom: 6vw;
+
+  }
+  .р4 > br + br {
+    display: none;
+}
+.р4 > br {
+    display: block !important;
+}
+  .eyes {
+    width: 100vw;
+    margin-left: 10vw;
+    margin-top: 55vw;
+  }
   .teeshirt2 {
   width: 30vw;
       margin-top: 70vw;
@@ -2587,4 +2611,9 @@ width: 36vw;
 footer {
   width: 117vw;
 }
+}
+.book1 {
+  width: 38vw;
+  margin-left: 8vw;
+  margin-top: -10vw;
 }
