@@ -84,7 +84,15 @@ a {
   width: 3vw;
   margin-top: -43vw;
   margin-left: 64vw;
+}
+.arrow3 {
+  opacity: 0.8;
+  position: relative;
+  z-index: 2;
 
+  width: 3vw;
+  margin-top: -43vw;
+  margin-left: 27vw;
 }
 .link, .link2, .link3, .link4
  {
@@ -153,7 +161,7 @@ h1 {
   background-color: #C4C4C4;
 }
 
-#first, #first2, #first4, #first5, #first6,
+#first, #first4, #first5, #first6,
 #first7, #first8, #first9, #first10,
 #first11, #first12, #first13, #first14, #first15, #first16  {
   width: 15vw;
@@ -207,6 +215,22 @@ h3 {
   z-index: 5;
 
     margin-top: -2vw;
+    margin-left: 15vw;
+    line-height: 3vw;
+
+
+      font-size: 3.2vw;
+
+}
+
+.smth3 {
+  font-family: 'Roboto', sans-serif;
+  line-height: 0.9;
+  font-weight: bold;
+  position: relative;
+  z-index: 5;
+
+    margin-top: -27vw;
     margin-left: 15vw;
     line-height: 3vw;
 
@@ -282,7 +306,7 @@ p {
 position: relative;
 z-index: 4;
 
-margin-top: -25vw;
+margin-top: -27.5vw;
 margin-left: 52vw;
 line-height: 0.9;
 font-weight: bold;
@@ -307,7 +331,7 @@ font-size: 3.2vw;
   z-index: 1;
 
   width: 68vw;
-  height: 40vw;
+  height: 45vw;
   margin-top: -3vw;
   margin-left: 16vw;
 
@@ -373,9 +397,9 @@ font-size: 3.2vw;
   position: relative;
   z-index: 2;
 
-  width: 62vw;
-  margin-top: -5vw;
-  margin-left: 38vw;
+  width: 45vw;
+  margin-top: -3vw;
+  margin-left: 50vw;
 
 
 }
@@ -391,17 +415,7 @@ font-size: 3.2vw;
 
 .book p {
   width: 26vw;
-  margin-top: -36vw;
-}
-
-#first2 {
-  margin-top: 17vw;
-  margin-left: 2vw;
-
-  transform: rotate(90deg);
-
-  border: none;
-  background-color: black;
+  margin-top: -48vw;
 }
 
 #second3 {
