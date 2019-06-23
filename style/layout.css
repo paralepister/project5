@@ -9,7 +9,65 @@ h1, h2, h3 {
   line-height: 0.9;
   font-weight: bold;
 }
+footer {
 
+  z-index: 0;
+background-color: #000000;
+}
+.end {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 12vw;
+  margin-top: 44vw;
+  opacity: .2;
+  background-color: #C4C4C4;
+}
+.logohse {
+  position: absolute;
+z-index: 2;
+width: 9vw;
+margin-top: -7.5vw;
+margin-left: 86vw;
+}
+h5 {
+  color: #ffffff;
+  margin-top: 1vw;
+margin-left: 5vw;
+font-family: 'Open Sans Condensed', sans-serif;
+font-size: 1vw;
+font-weight: bold;
+line-height: 2.4vw;
+}
+h6 {
+  color: #ffffff;
+  position: absolute;
+    margin-top: 1vw;
+    margin-left: 5vw;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1vw;
+    font-weight: 300;
+}
+#author {
+  position: absolute;
+margin-top: -4.6vw;
+margin-left: 50vw;
+}
+#name {
+  margin-top: -2vw;
+margin-left: 50vw;
+line-height: 2vw;
+}
+#curate {
+  position: absolute;
+    margin-top: -4.3vw;
+    margin-left: 81vw;
+}
+#namecurate {
+  margin-top: -1.7vw;
+    margin-left: 81vw;
+    line-height: 2vw;
+}
 .startposter  {
   position: fixed;
   z-index: 5;
@@ -240,8 +298,8 @@ h3 {
   font-weight: bold;
   position: relative;
   z-index: 5;
-
-    margin-top: -27vw;
+  margin-top: -67vw;
+  margin-bottom: 40vw;
     margin-left: 15vw;
     line-height: 3vw;
 
@@ -272,7 +330,6 @@ p {
 }
 
 @media (max-width: 376px){
-
 p {
     width: 62vw;
     margin-top: -155vw;
@@ -505,17 +562,6 @@ font-size: 3.2vw;
   margin-left: 60vw;
 }
 
-.end {
-  position: relative;
-  z-index: 1;
-
-  width: 100%;
-  height: 21vw;
-  margin-top: 44vw;
-
-  opacity: .2;
-  background-color: #C4C4C4;
-}
 
 .ten {
   position: relative;
@@ -557,7 +603,7 @@ h5 {
   margin-top: -15vw;
   margin-left: 10vw;
 
-  font-size: 2.7vw;
+  font-size: 1.5vw;
   font-weight: bold;
 }
 
@@ -565,7 +611,7 @@ h6 {
   margin-top: 2vw;
   margin-left: 10vw;
 
-  font-size: 2vw;
+  font-size: 1vw;
 }
 
 
@@ -1229,6 +1275,7 @@ h6 {
 
   width: 100%;
   margin-top: 16vw;
+  margin-bottom: 40vw;
 
 
 }
