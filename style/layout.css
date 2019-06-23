@@ -103,7 +103,18 @@ a {
   font-weight: bold;
     color: #000000;
 }
-
+/*.link, .link2, .link3, .link4 :visited {
+    color: #800000;
+  }*/
+  .link:hover {
+    color: #445686; /* Цвет текста при наведении */
+  }
+  .link2:hover {
+    color: #445686; /* Цвет текста при наведении */
+  }
+  .link3:hover {
+    color: #445686; /* Цвет текста при наведении */
+  }
 .link {
   margin-left: 15vw;
 
