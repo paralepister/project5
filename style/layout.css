@@ -271,7 +271,16 @@ p {
   line-height: 1.6vw;
 }
 
+@media (max-width: 376px){
 
+p {
+    width: 62vw;
+    margin-top: -155vw;
+    margin-left: 27vw;
+    font-size: 4vw;
+    line-height: 4.7vw;
+}
+}
 .four {
   opacity: 0;
   position: relative;
@@ -519,7 +528,7 @@ font-size: 3.2vw;
 h4 {
   padding-bottom: 20vw;
   width: 35vw;
-  margin-top: -17vw;
+  margin-top: -22vw;
     margin-left: 15vw;
     color: #424242;
     font-family: 'Roboto', sans-serif;
