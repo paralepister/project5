@@ -1765,7 +1765,7 @@ body.work-detail .logo--mobile svg .logo-g, body.work-detail .logo svg .logo-g {
 }
 
 @media (max-width:768.98px) {
-  
+
 }
 
 @media (max-width:576.98px) {
@@ -1792,21 +1792,10 @@ body.work-detail .logo--mobile svg .logo-g, body.work-detail .logo svg .logo-g {
   font-weight: 400
 }
 
-@media (max-width:1024.98px) {
-  .nav__primary ul li a {
-    font-size: 5em
-  }
-}
-
-@media (max-width:768.98px) {
-  .nav__primary ul li a {
-    font-size: 5.2em
-  }
-}
 
 @media (max-width:320.98px) {
   .nav__primary ul li a {
-    font-size: 5.2em;
+    font-size: 2em;
   }
 }
 
