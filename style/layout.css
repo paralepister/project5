@@ -9,10 +9,6 @@ h1, h2, h3 {
   line-height: 0.9;
   font-weight: bold;
 }
-footer {
-  z-index: 0;
-background-color: #000000;
-}
 .end {
   position: relative;
   z-index: 1;
@@ -22,12 +18,55 @@ background-color: #000000;
   opacity: .2;
   background-color: #C4C4C4;
 }
+footer {
+  background-color: #2d2d2d;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-top: 40px;
+}
+footer a {
+color: #fff;
+text-decoration: none;
+}
+.direct .pers  {
+width: 200px;
+display: flex;
+flex-direction: column;
+}
+.name {
+  font-weight: bold;
+  position: absolute;
+  z-index: 2;
+  width: 12vw;
+  margin-top: -1vw;
+  margin-left: 86.4vw;
+}
+footer span {
+  color: #fff;
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+.iconss {
+  width: 3.3vw;
+  margin-top: 1vw;
+  /* margin-right: 0vw; */
+  margin-left: 2.5vw;
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+footer .new-logo {
+  width: 25vw;
+}
 .logohse {
   position: absolute;
-z-index: 2;
-width: 9vw;
-margin-top: -7.5vw;
-margin-left: 86vw;
+  z-index: 2;
+  width: 9vw;
+  margin-top: -3.5vw;
+  margin-left: 86vw;
 }
 h5 {
   color: #ffffff;
@@ -2173,9 +2212,6 @@ html {
     margin-left: 34vw;
   }
 
-  footer {
-    margin-top: 152vw;
-  }
 
   .posterhello p {
     width: 33vw;
